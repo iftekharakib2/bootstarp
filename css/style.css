@@ -1,0 +1,55 @@
+.homepage{
+    background-color: #f89dec79;
+   border-radius: 5px;
+   margin: 50px 0;
+   height: 305px;
+}
+.content{
+   margin-top: 85px;
+   margin-left: 55px;
+}
+.btn-pink{
+    background-color: rgb(255, 0, 242) !important;
+    color: white !important;
+}
+.price{
+    color: rgb(232, 3, 253);
+}
+.name{
+    margin-top: 35px;
+    margin-left: 50px;
+    font-size: 40px;
+    color: aliceblue;
+}
+.name02{
+    margin-top: 150px;
+}
+.card-img-top{
+    margin-left: 51px;
+    margin-top: 10px;
+}
+.form01{
+    background-color: rgb(255, 169, 209);
+    margin-top: 200px;
+    height: 250px;
+}
+.formt{
+    text-align: center;
+    color: black;
+}
+.form-control {
+    width: 504px;
+}
+form{
+    margin-left:420px ;
+}
+.col-3{
+    margin-top: 20px;
+}
+.card-img-top2{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.col-5{
+    margin-top: 2px;
+}
